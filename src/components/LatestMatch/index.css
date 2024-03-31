@@ -1,0 +1,25 @@
+.lastest-match-middle-container {
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.left-middle {
+  text-align: left;
+  color: #fff;
+  font-family: 'Bree Serif';
+}
+.right-middle {
+  text-align: right;
+  color: #fff;
+  font-family: 'Bree Serif';
+}
+.p-content {
+  font-size: 10px;
+}
+.img-content {
+  height: 200px;
+  width: fit-content;
+}

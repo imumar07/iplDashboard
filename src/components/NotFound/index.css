@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.main-container-not-found {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-sm-bg.png');
+  height: 100vh;
+  background-size: cover;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-found-text {
+  color: #fff;
+  font-family: 'Bree Serif';
+}
+
+@media screen and (orientation: landscape) {
+  .main-container-not-found {
+    background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+    background-size: cover;
+  }
+}

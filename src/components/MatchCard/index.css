@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.Separate-match-result-card {
+  padding: 10px;
+  background-color: #1e293b;
+  font-family: 'Bree Serif';
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  border-radius: 10px;
+  width: 40vw;
+  text-align: center;
+  height: 60vh;
+}
+.Separate-match-result-card-img {
+  height: 100px;
+  width: fit-content;
+}
+.green-style {
+  color: green;
+}
+.red-style {
+  color: red;
+}
